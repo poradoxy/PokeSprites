@@ -9,8 +9,9 @@ To serve as a centralized, developer-friendly sprite archive for custom projects
 - Ideal for modular UIs, debug toggles, and themed palettes
 # Todo
 - Resort sprites
-# thank you
-Thank you to whoever i may of gotten these sprites from 
--pokemon
--pokemon showdown
+# Thank You
+Thank you to whoever I may have gotten these sprites from including
+-The Pokemon Company
+-Pokemon Showdown
 -Poke api
+-And any others there may be
