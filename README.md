@@ -10,7 +10,7 @@ To serve as a centralized, developer-friendly sprite archive for custom projects
 # Todo
 - Resort sprites
 # Thank You
-Thank you to whoever I may have gotten these sprites from including
+Thank you to anyone I may have gotten these sprites from including
 -The Pokemon Company
 -Pokemon Showdown
 -Poke api
